@@ -48,9 +48,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 160</itemStack>
-			<itemStack>libvulpes:productingot 1 6</itemStack>
-			<itemStack>immersiveengineering:metal 1 8</itemStack>
-			<itemStack>mekanism:ingot 1 4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="12000" power ="1">
